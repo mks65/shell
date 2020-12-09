@@ -1,7 +1,7 @@
 ### THIS IS AN EXAMPLE OF WHAT YOUR README.md FILE SHOULD LOOK LIKE
 
 ## DWSH
-by JonAlf Dyrland-Weaver and Neeraj Bhatia
+by JonAlf Dyrland-Weaver and Neeraj Bhatia\
 TNPG: Team Awesome!
 
 ### Features:
