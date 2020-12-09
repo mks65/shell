@@ -1,0 +1,4 @@
+[submodule "hernandezCar_hirotaEis_prasadAmi"]
+	path = hernandezCar_hirotaEis_prasadAmi
+	url = https://github.com/KarlWithK/rush.git
+	branch = master
