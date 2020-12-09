@@ -2,6 +2,7 @@
 
 ## DWSH
 by JonAlf Dyrland-Weaver and Neeraj Bhatia
+TNPG: Team Awesome!
 
 ### Features:
 - Forks and executes commands!
