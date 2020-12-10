@@ -2,3 +2,7 @@
 	path = hernandezCar_hirotaEis_prasadAmi
 	url = https://github.com/KarlWithK/rush.git
 	branch = master
+[submodule "nathMic_siuVic_ganHao"]
+	path = nathMic_siuVic_ganHao
+	url = https://github.com/vs2961/01_bash_trash.git
+	branch = main
