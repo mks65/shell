@@ -29,3 +29,7 @@
 	path = ku-benjetJer_leeLuc_zhangAle
 	url = https://github.com/Kappachino-Latte/Project_01.git
 	branch = master
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/shell.git
+	branch = main
