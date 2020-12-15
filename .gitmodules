@@ -17,3 +17,7 @@
 	path = chenJac_jiangVin_yeCul
 	url = https://github.com/CullenLYe/project01_shell.git
 	branch = main
+[submodule "hamzahMoh_raoIva_yeGen"]
+	path = hamzahMoh_raoIva_yeGen
+	url = https://github.com/irao12/systems_shell
+	branch = main
