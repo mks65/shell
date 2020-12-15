@@ -9,3 +9,7 @@
 [submodule "hathawayMay_waldAle"]
 	path = hathawayMay_waldAle
 	url = https://github.com/mayhathaway/systems-shell.git
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/CullenLYe/project01_shell.git
+	branch = main
