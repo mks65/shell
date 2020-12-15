@@ -13,3 +13,7 @@
 	path = chenJac
 	url = https://github.com/CullenLYe/project01_shell.git
 	branch = main
+[submodule "chenJac_jiangVin_yeCul"]
+	path = chenJac_jiangVin_yeCul
+	url = https://github.com/CullenLYe/project01_shell.git
+	branch = main
