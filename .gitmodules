@@ -6,3 +6,6 @@
 	path = nathMic_siuVic_ganHao
 	url = https://github.com/vs2961/01_bash_trash.git
 	branch = main
+[submodule "hathawayMay_waldAle"]
+	path = hathawayMay_waldAle
+	url = https://github.com/mayhathaway/systems-shell.git
