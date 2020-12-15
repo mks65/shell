@@ -21,3 +21,7 @@
 	path = hamzahMoh_raoIva_yeGen
 	url = https://github.com/irao12/systems_shell
 	branch = main
+[submodule "luRan_zhaoGav_zhangDev"]
+	path = luRan_zhaoGav_zhangDev
+	url = https://github.com/RandyLu0/Shell
+	branch = main
