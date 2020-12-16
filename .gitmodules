@@ -37,3 +37,7 @@
 	path = chanSer_liSun_zhouKel
 	url = https://github.com/KellyZhou223/project01_shell.git
 	branch = main
+[submodule "sahaAbh_leeSte_misquittaKri"]
+	path = sahaAbh_leeSte_misquittaKri
+	url = https://github.com/kevidgel/shell.git
+	branch = main
