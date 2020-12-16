@@ -33,3 +33,7 @@
 	path = linLei
 	url = https://github.com/llin11/shell.git
 	branch = main
+[submodule "chanSer_liSun_zhouKel"]
+	path = chanSer_liSun_zhouKel
+	url = https://github.com/KellyZhou223/project01_shell.git
+	branch = main
