@@ -45,3 +45,6 @@
 	path = siniscalcoFra_vostrikovVla_zhengYul
 	url = https://github.com/villinoid/systems_shell.git
 	branch = main
+[submodule "ahmedTah_huMic_zhangJin"]
+	path = ahmedTah_huMic_zhangJin
+	url = https://github.com/TahsinAhmed13/tmjsh
