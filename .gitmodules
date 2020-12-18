@@ -41,3 +41,7 @@
 	path = sahaAbh_leeSte_misquittaKri
 	url = https://github.com/kevidgel/shell.git
 	branch = main
+[submodule "siniscalcoFra_vostrikovVla_zhengYul"]
+	path = siniscalcoFra_vostrikovVla_zhengYul
+	url = https://github.com/villinoid/systems_shell.git
+	branch = main
