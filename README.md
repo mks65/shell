@@ -23,7 +23,6 @@ TNPG: Team Awesome!
 ---
 
 ### Bugs:
-- Test file (test.txt) must be inputted manually in order to produce desired effects (no make run < test.txt)
 - Putting two ;'s next to each other will break the parser
 - Redirecting to a file that does not exist occasionally does not work.
 - Hair regrowth function may result in a seg fault.
