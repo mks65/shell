@@ -46,3 +46,7 @@
 	path = huLuc
 	url = https://github.com/lhu10/my_lush.git
 	branch = main
+[submodule "ahmedTah_huMic_zhangJin"]
+	path = ahmedTah_huMic_zhangJin
+	url = https://github.com/TahsinAhmed13/tmjsh.git
+	branch = main
