@@ -50,3 +50,7 @@
 	path = ahmedTah_huMic_zhangJin
 	url = https://github.com/TahsinAhmed13/tmjsh.git
 	branch = main
+[submodule "hathawayMay_waldAle"]
+	path = hathawayMay_waldAle
+	url = https://github.com/mayhathaway/systems-shell.git
+	branch = main
